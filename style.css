@@ -1,0 +1,28 @@
+nav, head, body, table, footer {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif};
+head, body {margin-left: 100px; margin-right: 100px;}
+body {
+    background-color: #BFCCB5;
+}
+table {text-align: left;} 
+
+a {text-decoration: none;}
+a {color: black;}
+nav {
+    background-color: #EDC6B1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+}
+footer {
+    background-color: #EDC6B1;
+padding-top: 0.5px;
+padding-bottom: 0.5px;
+padding-left: 10px;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.recipe { background-color: #7C96AB; border-style:double; border-color: #B7B7B7 ; align-items: center;}
